@@ -1,0 +1,22 @@
+*{
+    background-color: tan;
+}
+
+img {
+    height: 100px;
+    width: auto;
+}
+
+.cheeseburger{
+    font: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke;
+
+    text-align: center;
+}
+
+#special-burger {
+    background-color: green;
+    color: whitesmoke;
+    font-weight: bolder;
+}
